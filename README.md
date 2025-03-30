@@ -15,3 +15,4 @@ Replay Option: The player can choose to play again by entering a specific comman
 
 This game is great for testing your guessing skills, and it’s an enjoyable challenge to try and guess the correct number with the given clues. You can play as many rounds as you want and see how quickly you can guess the right number!
 
+PS: Only the Ukrainian language is supported for now.
